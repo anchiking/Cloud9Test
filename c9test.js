@@ -3,3 +3,4 @@ var b = 5;
 var c = 2;
 var d = b+c;
 var str = "test from linux.server";
+var str = "testsetsetset";
